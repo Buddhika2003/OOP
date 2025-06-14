@@ -1,0 +1,25 @@
+Write  a java programm using arraylist to manage a list of student names.
+
+1.accept 5 student names from the user and stire them in an arraylist<String>
+
+2.Display all the student names.
+
+3.ask the user to enter a name to search.if found, display the position 
+ if not found display the message "Student not found".
+ 
+4.ask the user to enter a name to remove from the list.
+after remove display the updated list.
+
+________________________________________________________________________________
+
+Write a java program using ArrayList to manage marks of a Student.
+
+1.Accept 10 student marks from the user and store them in an ArrayList<String>
+
+2.Display all the student marks.
+
+3.calculate and display average.
+
+4.Display the highest and lowest marks.
+
+5.Remove any marks less than 40 and display the updated list.
